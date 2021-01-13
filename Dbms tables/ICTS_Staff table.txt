@@ -1,0 +1,1 @@
+create table ICTS_Staff(id int primary key ,foreign key (id) references person(id));

@@ -1,0 +1,2 @@
+create table services (request_no int,foreign key(request_no) references request(request_no),service varchar(30) not null);
+alter table department add foreign key(HOD) references staff(id

@@ -1,0 +1,1 @@
+create table person_mobile(id int,foreign key(id) references person(id),mobile_no varchar(10) not null,primary key(id,mobile_no));

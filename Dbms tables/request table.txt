@@ -1,0 +1,2 @@
+create table request(request_no int primary key,requested_by int ,foreign key(requested_by) references person(id),
+date date not null,status varchar(2) check(status = 'WA' or status = 'AD' or status = 'P' or status = 'C'),completed_date date,approval_required char check(approval_required = 'Y' or approval_required = 'N'),processed_by int,foreign key(processed_by) references ICTS_Staff(id),department int,foreign key(department) references department(dept_no));
