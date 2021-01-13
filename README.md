@@ -22,7 +22,8 @@ when a request is denied by the HOD then the request will move to this stage.<br
 A request will move to this stage when
 1. A request is placed by a staff/ICTS staff.
 2. A request is approved by HOD.<br/>
-in this stage request will be automatically(by algorithm) alloted to ICTS staff.<br/>
+
+In this stage request will be automatically(by algorithm) alloted to ICTS staff.<br/>
 **C** – completed<br/> 
 A request moves to completed stage when processing is completed by ICTS staff.<br/>
 ![User manuel](https://github.com/pavanbsp/ICTS-Management-System/blob/main/User%20manual.png)
