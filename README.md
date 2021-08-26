@@ -28,22 +28,3 @@ In this stage request will be automatically(by algorithm) alloted to ICTS staff.
 A request moves to completed stage when processing is completed by ICTS staff.<br/>
 ![User manuel](https://github.com/pavanbsp/ICTS-Management-System/blob/main/User%20manual.png)
 
-#### Screen Shots
-
-###### Main page
-![Home Page](https://github.com/pavanbsp/ICTS-Management-System/blob/main/Page%20screenshots/Main%20page.png)
-###### Place request page
-![Home Page](https://github.com/pavanbsp/ICTS-Management-System/blob/main/Page%20screenshots/Place%20request%20page.png)
-###### Place request page
-![Home Page](https://github.com/pavanbsp/ICTS-Management-System/blob/main/Page%20screenshots/View%20request%20details%20page.png)
-###### Icts staff login page
-![Home Page](https://github.com/pavanbsp/ICTS-Management-System/blob/main/Page%20screenshots/Icts%20staff%20login%20page.png)
-###### Hod login page
-![Home Page](https://github.com/pavanbsp/ICTS-Management-System/blob/main/Page%20screenshots/Hod%20login%20page.png)
-###### Admin page
-![Home Page](https://github.com/pavanbsp/ICTS-Management-System/blob/main/Page%20screenshots/Admin%20login%20page.png)
-###### Admin Details
-![Home Page](https://github.com/pavanbsp/ICTS-Management-System/blob/main/Page%20screenshots/Admin%20data.png)
-
-This page contains all the details of staff,Hod's,Icts staff,student and about all request placed.
-Requests contains requested by,date,status,completed date,approval required,proccesed by,department.
